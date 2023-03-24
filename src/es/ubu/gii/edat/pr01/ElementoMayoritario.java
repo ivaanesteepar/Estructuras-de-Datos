@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Clase que alberga el código completo para la Práctica 01.
+ * Búsqueda del elemento mayoritario de forma iterativa y recursiva
  * 
  * @author bbaruque
  * @author Iván Estépar Rebollo y Jimena Arnaiz González
