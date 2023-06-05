@@ -1,4 +1,4 @@
-package es.ubu.inf.edat.datos.coches;
+package es.ubu.inf.gii.pr05;
 import java.util.*;
 
 public class ArbolBB<E> extends AbstractSet<E> {
