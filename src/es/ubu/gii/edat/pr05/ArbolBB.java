@@ -1,4 +1,4 @@
-package es.ubu.inf.gii.pr05;
+package es.ubu.gii.edat.pr05;
 import java.util.*;
 
 public class ArbolBB<E> extends AbstractSet<E> {
