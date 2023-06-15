@@ -1,2 +1,2 @@
 # EDAT
-Prácticas EDAT
+Prácticas Estructura de Datos
