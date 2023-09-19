@@ -1,2 +1,2 @@
 # EDAT
-Prácticas Estructura de Datos
+Prácticas de Estructura de Datos en Java
