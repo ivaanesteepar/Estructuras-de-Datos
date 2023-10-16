@@ -1,6 +1,13 @@
 package es.ubu.gii.edat.pr05;
 import java.util.*;
 
+/**
+ * Clase que crea un árbol binario de búsqueda
+ * @author Iván Estépar Rebollo
+ * @author Jimena Arnaiz González
+ *
+ * @param <E>
+ */
 public class ArbolBB<E> extends AbstractSet<E> {
     private Nodo raiz;
     private Comparator<? super E> comparator;
