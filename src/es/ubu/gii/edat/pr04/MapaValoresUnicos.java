@@ -5,6 +5,13 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * Clase que crea un mapa de valores únicos
+ * @author Iván Estépar Rebollo
+ * @author Jimena Arnaiz González
+ *
+ * @param <K,V>
+ */
 public class MapaValoresUnicos<K, V> extends AbstractMap<K, V> {
 
     private HashMap<K, V> directo;
