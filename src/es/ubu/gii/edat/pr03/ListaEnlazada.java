@@ -5,6 +5,13 @@ import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.NoSuchElementException;
 
+/**
+ * Clase que crea una lista enlazada
+ * @author Iván Estépar Rebollo
+ * @author Jimena Arnaiz González
+ *
+ * @param <E>
+ */
 public class ListaEnlazada<E> extends AbstractList<E> {
     
     private Nodo<E> inicio;
