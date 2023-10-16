@@ -7,8 +7,8 @@ import java.util.Comparator;
 
 /**
  * Clase que ordena una lista
- * @author Ivan Estepar Rebollo
- * @author Jimena Arnaiz Gonzalez
+ * @author Iván Estépar Rebollo
+ * @author Jimena Arnaiz González
  *
  * @param <E>
  */
